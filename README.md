@@ -144,3 +144,4 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 
 new users can make changes in this file
+not the original file
